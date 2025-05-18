@@ -19,7 +19,6 @@ This repository contains the **Admin Side** of the Virtual Try-On system, develo
 - Manage Clothing Items (with 3D `.fbx` model upload)
 - Manage Sessions, Students, and Sections
 - Auto-generate recursive folders (`0000`, `0001`, ...) with `model.fbx` inside
-- Stores models to:
 
 
 ---
@@ -30,4 +29,3 @@ The actual virtual try-on experience is handled by Unity and can be accessed her
 
 > 🌍 [User Interface (Try-On System)](https://github.com/kausar-fatima/Virtual_Try_On_User)
 
--
